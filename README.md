@@ -7,12 +7,13 @@ Prerequisites:
 --------------
 The following additional components need to be installed for this project to work:
 
-    - Homebrew (https://brew.sh) 
-        - Install by copy/pasting the entire line under "Install Homebrew" at brew.sh.  
-    - XQuartz
-        - Install via homebrew:  brew cask install xquartz
-    - Docker for Mac:
-        - Install via homebrew:  brew cask install docker
+- Homebrew (https://brew.sh) 
+    - Install by copy/pasting the entire line under "Install Homebrew" at brew.sh.  
+- XQuartz
+    - Install via homebrew:  brew cask install xquartz
+- Docker for Mac:
+    - Install via homebrew:  brew cask install docker
+
 
 Files:
 ------
@@ -20,6 +21,7 @@ Files:
 - start.sh          - Shell script to launch new firefox instance
 - Fox-in-a-Box.app  - Automator 'app' that executes the exact same command as start.sh, just in a more Appley way
 - README.md         - Duh.
+
 
 
 Limitations/Known issues:
